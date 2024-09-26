@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>HTML Elements Reference</title>
+</head>
+<body>
+
+<h1>This is a India</h1>
+<p>This is a Pune</p>
+
+</body>
+</html>
